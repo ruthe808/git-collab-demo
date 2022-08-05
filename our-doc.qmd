@@ -9,3 +9,9 @@ editor: visual
 Cool it works! Sup Jared! add change
 
 alright sending you one back hummie
+
+![](images/rick.jpg){width="300"}
+
+**AHHHHHHHHHHHHHHH**
+
+commit FIRST\>pull \>push
